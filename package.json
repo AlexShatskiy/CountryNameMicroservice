@@ -1,0 +1,10 @@
+{
+  "name": "CountryNameMicroservice",
+  "version": "1.0.0",
+  "dependencies": {
+    "body-parser": "1.16.0",
+    "country-data": "0.0.31",
+    "express": "4.14.0",
+    "google-translate-api": "2.3.0"
+  }
+}
